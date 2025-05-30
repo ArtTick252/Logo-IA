@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-sqlalchemy
+openai
+stripe
+pyjwt
+requests
+python-dotenv
